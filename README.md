@@ -1,5 +1,5 @@
 <html>
 <p>John Stevel D. Radores</p>
 <p>Grade-9 Saint Therese</p>
-<p>Computer Education 9 Expectation</p>
+<h1>Computer Education 9 Expectation</h1>
 <html>
